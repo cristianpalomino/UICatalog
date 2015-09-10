@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UICatalog: Creating and Customizing UIKit Controls (Obj-C and Swift)
 
 This sample demonstrates how to use many views and controls in the UIKit framework along with their assorted functionalities. Refer to this sample if you are looking for specific controls or views that are provided by the system.
@@ -50,3 +51,7 @@ UICatalog demonstrates how to configure and customize the following controls / c
 + UIToolbar
 
 Copyright (C) 2014 Apple Inc. All rights reserved.
+=======
+# UICatalog
+UICATALOG
+>>>>>>> a72233d1afea488e042d13048c4da12285edcbcd
